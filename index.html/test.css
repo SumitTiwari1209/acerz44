@@ -1,0 +1,41 @@
+h1{color: blue;}
+#container{
+    
+    background-color: black;
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 5px solid black;
+    position: fixed;
+    top: 200px;
+    right: 0;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: chartreuse;
+    border: 5px solid black;
+    position: sticky;
+    left: 500px;
+    bottom: 500px;
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    border: 5px solid black;
+    position: static;
+    right: 100px;
+}
+#box4{
+    height: 100px;
+   width: 100px;
+   background-color: rgb(15, 39, 39);
+   border: 5px solid black;
+   position: relative;
+   top: 300px;
+   left: 66px;
+
+}
